@@ -27,9 +27,13 @@ cumplan con ciertos requisitos de seguridad.
 
 ## Ejemplo de Salida 
 ---------------Generador de Contraseñas Seguras---------------
+
 --------------------------Bienvenido--------------------------
+
 Ingrese la longitud deseada de la contraseña a generar, en valor numérico entero del 8 - 30: 12
+
 Tu contraseña segura es: g;#TjY/Mp)4E
+
 --------------------Gracias por usar el Generador de Contraseñas Seguras--------------------
 
 ## Autor 
