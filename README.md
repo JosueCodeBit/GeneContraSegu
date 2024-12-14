@@ -2,7 +2,7 @@
 
 ## Descripción 
 Este programa genera contraseñas seguras basadas en una longitud especificada por el usuario.
-Se asegura de que cada contraseña contenga al menor una letra, un dígito y un símbolo,
+Se asegura de que cada contraseña contenga al menos una letra, un dígito y un símbolo,
 proporcionando una opción robusta para la seguridad de las contraseñas.
 
 ## Objetivo
